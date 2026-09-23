@@ -1,0 +1,19 @@
+# Maven
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+out/
+
+# App-generated files (ne treba da se prate u repozitorijumu)
+data/rezervacije.csv
+izlaz.txt
+
+# OS
+.DS_Store
+Thumbs.db
