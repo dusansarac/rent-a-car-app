@@ -76,6 +76,8 @@ java -jar target/rent-a-car-1.0.0.jar
 
 
 
+
+
 Aplikaciju treba pokretati iz korena projekta (radi relativnih putanja
 `data/vozila.txt`, `data/rezervacije.csv` i `izlaz.txt`).
 
