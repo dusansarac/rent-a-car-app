@@ -20,6 +20,8 @@ funkcionalnosti u odnosu na originalni tekst zadatka.
 
 ## Sta je dodato preko originalnog zadatka
 
+
+
 1. **Provera stvarne dostupnosti vozila.** Originalni zadatak ne trazi
    proveru da li je odredjeni model vec iznajmljen u tom periodu - ovde se
    za svaki model racuna koliko je primeraka vec rezervisano u periodima
